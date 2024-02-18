@@ -1,6 +1,6 @@
 # Tennis Kata
 
-This is a tennis kata using simplified rules from [Code Dojo]("https://codingdojo.org/kata/Tennis/"). The concept of having a server has been ignored so we do not need to reverse the order of the score.
+This is a tennis kata using simplified rules from [Code Dojo](https://codingdojo.org/kata/Tennis/). The concept of having a server has been ignored so we do not need to reverse the order of the score.
 
 ## Scoring system
 
